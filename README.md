@@ -9,7 +9,7 @@ While coding in your editor of choice, if you would like to remove a line of cod
 Before making dev helper I would use an extra tab to solve this but would frequently lose the tab and have to search for it in a forrest of tabs. Dev helper simply makes that process much faster so you stay in flow.
 
 # Install
-1. `git clone git@github.com:dylanbathurst/dev-helper.git`
+1. `git clone git@github.com:dylanbathurst/junktab.git`
 1. `npm install`
 1. `npm start`
 1. `Command + Shift + X`
